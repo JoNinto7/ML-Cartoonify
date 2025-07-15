@@ -4,7 +4,7 @@ A multi-style image cartoonification desktop app built using classical computer 
 
 ## Overview
 
-This project transforms ordinary images into stylized, cartoon-like outputs using traditional image processing methods—no deep learning required. Users can experiment with different styles such as Anime, Pencil Sketch, Oil Painting, and more through a user-friendly GUI. The app offers real-time parameter tuning and visual feedback, making it both a creative tool and an educational platform.
+This project transforms ordinary images into stylized, cartoon-like outputs using traditional image processing methods, no deep learning required. Users can experiment with different styles such as Anime, Pencil Sketch, Oil Painting, and more through a user-friendly GUI. The app offers real-time parameter tuning and visual feedback, making it both a creative tool and an educational platform.
 
 ## Features
 
